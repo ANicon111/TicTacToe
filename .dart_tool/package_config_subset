@@ -1,7 +1,3 @@
-tictactoe
-2.16
-file:///backup/Projects/Code/Flutter/tictactoe/
-file:///backup/Projects/Code/Flutter/tictactoe/lib/
 async
 2.12
 file:///home/nicon/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/
@@ -98,4 +94,8 @@ flutter_test
 2.17
 file:///home/nicon/snap/flutter/common/flutter/packages/flutter_test/
 file:///home/nicon/snap/flutter/common/flutter/packages/flutter_test/lib/
+tictactoe
+2.16
+file:///projects/Code/Flutter/tictactoe/
+file:///projects/Code/Flutter/tictactoe/lib/
 2
